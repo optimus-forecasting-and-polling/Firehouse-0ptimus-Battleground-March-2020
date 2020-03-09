@@ -1,21 +1,21 @@
 # Firehouse-0ptimus-Battleground-March-2020
 Michigan, Pennsylvania, and Wisconsin Battleground Poll Conducted in March 2020
 
-Methodology Statement
+<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Battleground-March-2020/blob/master/FH_0ptimus_03_2020_Methodology_Statement.pdf">Methodology Statement</a>
 
-MI Toplines 
+<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Battleground-March-2020/blob/master/Toplines_MI.pdf">MI Toplines</a>
 
-MI Crosstabs
+<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Battleground-March-2020/blob/master/Crosstabs_MI.pdf">MI Crosstabs</a>
 
-PA Toplines 
+<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Battleground-March-2020/blob/master/Toplines_PA.pdf">PA Toplines</a>
 
-PA Crosstabs
+<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Battleground-March-2020/blob/master/Crosstabs_PA.pdf">PA Crosstabs</a>
 
-WI Toplines 
+<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Battleground-March-2020/blob/master/Toplines_WI.pdf">WI Toplines</a>
 
-WI Crosstabs
+<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Battleground-March-2020/blob/master/Crosstabs_WI.pdf">WI Crosstabs</a>
 
-AAPOR Transparency Initiative Statement
+<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Battleground-March-2020/blob/master/FH_0ptimus_03_2020_AAPOR-TI.pdf"> AAPOR Transparency Initiative Statement</a>
 
 
 0ptimus is a political and commercial consulting firm that conducts both public and private polling and modeling. 
