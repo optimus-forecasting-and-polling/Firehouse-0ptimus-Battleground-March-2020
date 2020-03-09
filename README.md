@@ -15,6 +15,8 @@ WI Toplines
 
 WI Crosstabs
 
+AAPOR Transparency Initiative Statement
+
 
 0ptimus is a political and commercial consulting firm that conducts both public and private polling and modeling. 
 More information is available at <a href="https://www.0ptimus.com">0ptimus.com</a>.
